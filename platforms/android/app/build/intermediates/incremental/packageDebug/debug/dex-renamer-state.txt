@@ -1,0 +1,4 @@
+#Mon Oct 22 13:42:47 PKT 2018
+base.0=/home/muhammad/Downloads/wowNOw/App Source Code/App Source Code/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

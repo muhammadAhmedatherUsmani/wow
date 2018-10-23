@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/muhammad/Downloads/wowNOw/App Source Code/App Source Code/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/muhammad/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/bfdfa8e9657808ea24be44e88d2c2c57/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
